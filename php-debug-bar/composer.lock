@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "maximebf/debugbar",
-            "version": "v3.7.3",
+            "version": "v3.7.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-debugbar/php-debugbar.git",
-                "reference": "ea965a77f10b3824881b0ae7dba70d2038a9df84"
+                "reference": "af82a54530c56919ce3c6fba1942a247ac9f6777"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-debugbar/php-debugbar/zipball/ea965a77f10b3824881b0ae7dba70d2038a9df84",
-                "reference": "ea965a77f10b3824881b0ae7dba70d2038a9df84",
+                "url": "https://api.github.com/repos/php-debugbar/php-debugbar/zipball/af82a54530c56919ce3c6fba1942a247ac9f6777",
+                "reference": "af82a54530c56919ce3c6fba1942a247ac9f6777",
                 "shasum": ""
             },
             "require": {
@@ -91,7 +91,7 @@
             ],
             "support": {
                 "issues": "https://github.com/php-debugbar/php-debugbar/issues",
-                "source": "https://github.com/php-debugbar/php-debugbar/tree/v3.7.3"
+                "source": "https://github.com/php-debugbar/php-debugbar/tree/v3.7.4"
             },
             "funding": [
                 {
@@ -104,7 +104,7 @@
                 }
             ],
             "abandoned": "php-debugbar/php-debugbar",
-            "time": "2026-04-08T07:22:30+00:00"
+            "time": "2026-04-09T11:28:41+00:00"
         },
         {
             "name": "psr/log",
@@ -158,16 +158,16 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.33.0",
+            "version": "v1.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "6d857f4d76bd4b343eac26d6b539585d2bc56493"
+                "reference": "6a21eb99c6973357967f6ce3708cd55a6bec6315"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/6d857f4d76bd4b343eac26d6b539585d2bc56493",
-                "reference": "6d857f4d76bd4b343eac26d6b539585d2bc56493",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/6a21eb99c6973357967f6ce3708cd55a6bec6315",
+                "reference": "6a21eb99c6973357967f6ce3708cd55a6bec6315",
                 "shasum": ""
             },
             "require": {
@@ -219,7 +219,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.33.0"
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.35.0"
             },
             "funding": [
                 {
@@ -239,7 +239,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-12-23T08:48:59+00:00"
+            "time": "2026-04-10T17:25:58+00:00"
         },
         {
             "name": "symfony/var-dumper",
