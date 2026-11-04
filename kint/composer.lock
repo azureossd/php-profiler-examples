@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "17e549bf82c81801af51a2f181038b0e",
+    "content-hash": "51f68653b73b065f74478c066e715a31",
     "packages": [
         {
             "name": "brick/math",
@@ -968,28 +968,27 @@
         },
         {
             "name": "kint-php/kint",
-            "version": "5.0.3",
+            "version": "6.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kint-php/kint.git",
-                "reference": "03169f1923966c815223adbb3eccf831a3423578"
+                "reference": "dd0f723029e3ebd0fa4edd895fa408bb2ce7003e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kint-php/kint/zipball/03169f1923966c815223adbb3eccf831a3423578",
-                "reference": "03169f1923966c815223adbb3eccf831a3423578",
+                "url": "https://api.github.com/repos/kint-php/kint/zipball/dd0f723029e3ebd0fa4edd895fa408bb2ce7003e",
+                "reference": "dd0f723029e3ebd0fa4edd895fa408bb2ce7003e",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">=7.4"
             },
             "require-dev": {
                 "friendsofphp/php-cs-fixer": "^3",
-                "phpspec/prophecy-phpunit": "^2",
                 "phpunit/phpunit": "^9",
                 "seld/phar-utils": "^1",
-                "symfony/finder": "^4.0 || ^5.0 || ^6.0",
-                "vimeo/psalm": "^5@dev"
+                "symfony/finder": ">=7",
+                "vimeo/psalm": "^6"
             },
             "suggest": {
                 "kint-php/kint-helpers": "Provides extra helper functions",
@@ -1018,18 +1017,17 @@
                     "homepage": "https://github.com/kint-php/kint/graphs/contributors"
                 }
             ],
-            "description": "Kint - debugging tool for PHP developers",
+            "description": "Kint - Advanced PHP dumper",
             "homepage": "https://kint-php.github.io/kint/",
             "keywords": [
                 "debug",
-                "kint",
-                "php"
+                "dump"
             ],
             "support": {
                 "issues": "https://github.com/kint-php/kint/issues",
-                "source": "https://github.com/kint-php/kint/tree/5.0.3"
+                "source": "https://github.com/kint-php/kint/tree/6.1.0"
             },
-            "time": "2023-01-31T12:53:37+00:00"
+            "time": "2025-11-08T12:59:43+00:00"
         },
         {
             "name": "laravel/framework",
